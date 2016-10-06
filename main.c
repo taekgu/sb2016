@@ -5,7 +5,7 @@ extern int foo2(int a, int b);
 
 int main()
 {
-	int a = 5;
+	int a = 7;
 	int b = 4;
 	printf("show fo1 : %d , show fo2 : %d\n",foo1(a,b),foo2(a,b));
 	return 1;
