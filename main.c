@@ -7,6 +7,6 @@ int main()
 {
 	int a = 5;
 	int b = 4;
-	printf("show fo1 : %d , show fo2 : %d\n",foo1(a,b),foo2(a,b));
+	printf("show foo1 : %d , show foo2 : %d\n",foo1(a,b),foo2(a,b));
 	return 1;
 }
