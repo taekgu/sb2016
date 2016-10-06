@@ -8,6 +8,6 @@ int main()
 
 	int a = 14;
 	int b = 4;
-	printf("show foo1 : %d , show foo2 : %d\n",foo1(a,b),foo2(a,b));
+	printf("show111 foo1 : %d , show foo2 : %d\n",foo1(a,b),foo2(a,b));
 	return 1;
 }
